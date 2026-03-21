@@ -4,6 +4,6 @@
 let a=10
 {
     let a=12
-    console.loglog("inner..",a)
+    console.log("inner..",a)
 }
-console.loglog("outer..",a)
+console.log("outer..",a)
