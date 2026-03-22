@@ -19,6 +19,13 @@
 // string , number , boolen , null , undefined , symbol ,bigint 
 // array ,obejcts, functions 
 
+
+// for strings ...
 // ''  >> single queotes
 // ""  >> dobule quoets 
 // ``  >> backticks 
+
+// numer 
+// 12 - number
+// 12.34 number 
+
