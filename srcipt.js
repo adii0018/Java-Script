@@ -36,3 +36,7 @@
 
 // // null ka matlab he aapne jaan buch ke koi value nhi diii
 // let selectstudent= "adii"
+
+// undefined ka matalb h eki aapne ek  variable  baaanaya aur usey vaule nhi di to jo vaule by default milii wo undefined 
+
+// symbol unique immutalbe vaule 
