@@ -1,31 +1,38 @@
-// // // // var let const 
-// // // // declaration and initailization 
-// // // // schope (globle ,block ,function)
-// // // let a=10
-// // // {
-// // //     let a=12
-// // //     console.log("inner..",a)
-// // // }
-// // // console.log("outer..",a)
-//  let a = [1,2,3,4];
-//  let b = a;
-// b.pop()
+// // // // // var let const 
+// // // // // declaration and initailization 
+// // // // // schope (globle ,block ,function)
+// // // // let a=10
+// // // // {
+// // // //     let a=12
+// // // //     console.log("inner..",a)
+// // // // }
+// // // // console.log("outer..",a)
+// //  let a = [1,2,3,4];
+// //  let b = a;
+// // b.pop()
 
-// ............AbortController......AbortController.apply.......
-
-
-// chatper 2>>>>>>>>>>>>>>
-
-// string , number , boolen , null , undefined , symbol ,bigint 
-// array ,obejcts, functions 
+// // ............AbortController......AbortController.apply.......
 
 
-// for strings ...
-// ''  >> single queotes
-// ""  >> dobule quoets 
-// ``  >> backticks 
+// // chatper 2>>>>>>>>>>>>>>
 
-// numer 
-// 12 - number
-// 12.34 number 
+// // string , number , boolen , null , undefined , symbol ,bigint 
+// // array ,obejcts, functions 
 
+
+// // for strings ...
+// // ''  >> single queotes
+// // ""  >> dobule quoets 
+// // ``  >> backticks 
+
+// // numer 
+// // 12 - number
+// // 12.34 number 
+
+// // boolens 
+
+// // true and fulse 
+
+
+// // null ka matlab he aapne jaan buch ke koi value nhi diii
+// let selectstudent= "adii"
