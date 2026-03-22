@@ -40,3 +40,8 @@
 // undefined ka matalb h eki aapne ek  variable  baaanaya aur usey vaule nhi di to jo vaule by default milii wo undefined 
 
 // symbol unique immutalbe vaule 
+let adii={
+    model:"rajput"
+    uid :11,
+}
+ 
