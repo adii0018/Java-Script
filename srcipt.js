@@ -41,7 +41,5 @@
 
 // symbol unique immutalbe vaule 
 let adii={
-    model:"rajput"
-    uid :11,
+    model:"rajput"   
 }
- 
