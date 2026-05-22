@@ -1,2 +1,2 @@
-var adiRajput = "22";
-console.log(adiRajput)
+let name ="aditya"
+console.log(name)
