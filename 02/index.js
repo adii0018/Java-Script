@@ -1,3 +1,3 @@
-var a = 99
-var a = 100
-console.log(a)
+console.log(z); // ✅ Output: undefined
+var z = 15;
+console.log(z); // ✅ Output: 15
