@@ -1,2 +1,3 @@
-let name ="aditya"
-console.log(name)
+var a = 99
+var a = 100
+console.log(a)
