@@ -8,5 +8,4 @@
 
 
 // Function ko variable me store karke bhi use kar sakte ho.
-
 }
