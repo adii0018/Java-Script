@@ -15,6 +15,4 @@ console.log(colors);     // ✅ ["Green","Blue"]
 colors.unshift("Black"); // add at start
 console.log(colors);     // ✅ ["Black","Green","Blue"]
 
-
-
 }
