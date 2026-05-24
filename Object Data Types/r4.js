@@ -2,9 +2,11 @@
 
 {
 
-let a= ("i love java script")
+let text = "I love JavaScript!";
+let newText = text.replace(/JavaScript/, "Python");
 
-let b=(a.replace(/java script/,"python ❤️"))
-console.log(b)
+console.log(newText); // ✅ I love Python!
 
 }
+
+// replace() method pattern ko naya text se replace kar deta hai.
