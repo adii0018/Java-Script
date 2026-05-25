@@ -4,4 +4,5 @@
   let a= "99";
 
   console.log(typeof a)
+  
 }
