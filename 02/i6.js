@@ -3,6 +3,8 @@
 {
   let a= "99";
 
-  console.log(typeof a)
-  
+  console.log(typeof +a)
+  // number constructor 
+  console.log(typeof Number(a))
+
 }
