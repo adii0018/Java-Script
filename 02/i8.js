@@ -7,4 +7,5 @@
 
     let result = Number(a);
     console.log(result+b)
+    
 }
