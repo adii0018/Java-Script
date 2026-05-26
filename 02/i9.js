@@ -4,3 +4,4 @@
     let a="adii";
     console.log(Number(a));
 }
+
