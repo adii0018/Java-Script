@@ -9,3 +9,4 @@ let sum = a + b;
 
 // Console me output dikhate hain
 console.log("Sum = " + sum);
+console.log("adii")
