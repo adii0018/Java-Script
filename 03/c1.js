@@ -1,6 +1,5 @@
 {
 
-    let a = "adii "+"rajput"
+    let a = "adii"+"rajput"
     console.log(a)
-
 }
