@@ -5,8 +5,16 @@
         country:"india",
         jno:{
             name:"virat kohli",
-            Team:"RCB"
+            Team:"RCB",
+            boy:{
+                
+                boyyy:"yeehhh",
+
+
+            }
+
+
         }
     }
-    console.log(cricket.jno.Team)
+    console.log(cricket.jno.boy.boyyy)
 }
