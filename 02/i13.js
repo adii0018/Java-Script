@@ -1,5 +1,6 @@
 {
     const a = "122.21"
-    const b = parseFloat(a);
-    console.log(b)
+    console.log(parseFloat(a))
+
 }
+console.log(parseFloat("0.88"))
