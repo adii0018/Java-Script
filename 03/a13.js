@@ -1,5 +1,8 @@
-var a = 88;
-var b = 90;
+// var a = 88;
+// var b = 90;
 
-let c = a * b;
-console.log(c)
+// let c = a * b;
+// console.log(c)
+{
+    console.log(38923*289491);
+}
