@@ -19,3 +19,4 @@ function calcluatorr(n1,n2,operator){
     }
 }
 console.log(calcluatorr(11,12,"/"))
+console.log("yeeh hoo")
