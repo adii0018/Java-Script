@@ -1,4 +1,4 @@
-function add(a,b){
-    return a+b;
+function name(){
+    console.log("hey Adii ❤️")
 }
-console.log(add(99,982))
+name();
