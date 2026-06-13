@@ -10,4 +10,3 @@ let students = [
 let passnames = students.filter(s=>s.marks > 50).map(s=>s.name)
 
 console.log(passnames)
-
