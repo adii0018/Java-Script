@@ -8,3 +8,4 @@ else if(marks>30 && marks<75){
 else{
     console.log("Fail !!")
 }
+console.log("   ")
