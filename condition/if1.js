@@ -5,3 +5,4 @@ if (tem>=40){
 else{
     console.log("tv dekhunga yrr")
 }
+console.log("heloooooo")
