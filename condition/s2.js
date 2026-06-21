@@ -28,3 +28,5 @@ switch(shapeinput){
     console.log("wrong shape input");
     break;
 }
+
+console.log("heloooooo")
