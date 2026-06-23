@@ -1,3 +1,3 @@
-let a = "hey java script !!"
-let v = a.matchAll("Java")
-console.log(v)
+let a = "hey java script java!!"
+let v = a.matchAll("java")
+console.log(... v)
