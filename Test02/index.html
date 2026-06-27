@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hey Adii</title>
+</head>
+<body>
+    <dev>
+        <h1>Simple dom todo aap🌿</h1>
+        <input type="text" id="inputfield"/>
+        <button class="btn">Click me</button>
+        <dev class="todolestelmen"></dev>
+        
+
+    </dev>
+    <script>
+        let inputelm =document.getElementById("inputfield")
+        let clickbtn =document.querySelector(".btn")
+        
+        const addTodo =()=>{
+            console.log(inputelm.value)
+        }
+
+
+
+        clickbtn.addEventListener('click',()=>{
+            addTodo()
+        })
+
+    </script>
+    
+</body>
+</html>
