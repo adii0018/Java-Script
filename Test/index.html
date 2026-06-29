@@ -60,15 +60,31 @@
             
 
             }
-            button {
-  background: linear-gradient(45deg, #00c6ff, #0072ff);
-  color: white;
-  padding: 12px 24px;
+           .button-group {
+  display: flex;              /* sab buttons ek line me */
+  flex-wrap: wrap;            /* agar jagah kam ho toh next line me chale */
+  gap: 15px;                  /* buttons ke beech ka space */
+  justify-content: center;    /* center align */
+  margin-top: 20px;
+}
+
+.btn {
+  background-color: rgb(190, 232, 148);
+  color: black;
+  padding: 10px 20px;
   border: none;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  border-radius: 8px;
   cursor: pointer;
-  transition: transform 0.2s ease;
+  font-size: 16px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: rgb(150, 210, 120); /* hover pe thoda dark */
+  transform: translateY(-2px);          /* thoda upar uthta hai */
+}
+
 }
 button:hover {
   transform: scale(1.05);      /* Slight zoom on hover */
