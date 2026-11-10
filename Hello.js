@@ -1,6 +1,1 @@
 console.log(" A  S  R")
-console.log(" A  S  R sir")
-console.log(" A  S  R")
-console.log(" A  S  R sir")
-console.log(" A  S  R ssiirrr")
-console.log(" A  S  R ssiiirr")
